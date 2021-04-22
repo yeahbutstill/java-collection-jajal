@@ -1,0 +1,17 @@
+
+T
+java:S1854"7Remove this useless assignment to local variable "map".(ç×Ïˆ8é‹È²/
+G
+java:S1481"*Remove this unused "empty" local variable.(½ŒñÌ8ˆˆ¥²/
+V
+java:S1854"9Remove this useless assignment to local variable "empty".(½ŒñÌ8ˆˆ¥²/
+_
+java:S1854"=Remove this useless assignment to local variable "immutable".(°ƒÉßüÿÿÿÿ8Ú„Ä²/
+`
+java:S1854">Remove this useless assignment to local variable "singletons".(â½Ãñøÿÿÿÿ8…¡«²/
+Q
+java:S1481"/Remove this unused "singletons" local variable.(â½Ãñøÿÿÿÿ8…¡«²/
+P
+java:S1481".Remove this unused "immutable" local variable.(°ƒÉßüÿÿÿÿ8Ú„Ä²/
+E
+java:S1481"(Remove this unused "map" local variable.(ç×Ïˆ8é‹È²/
