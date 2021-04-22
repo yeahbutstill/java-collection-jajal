@@ -1,0 +1,17 @@
+
+E
+java:S1481"*Remove this unused "empty" local variable.(œ§š8ÉõíØ/
+H
+java:S1481"(Remove this unused "set" local variable.(¬¸úÿüÿÿÿÿ8éœ€Ù/
+I
+java:S1481".Remove this unused "immutable" local variable.(±Áë¼8 šøØ/
+X
+java:S1854"=Remove this useless assignment to local variable "immutable".(±Áë¼8 šøØ/
+W
+java:S1854"7Remove this useless assignment to local variable "set".(¬¸úÿüÿÿÿÿ8éœ€Ù/
+R
+java:S1854"7Remove this useless assignment to local variable "one".(â†÷•8€ÖğØ/
+T
+java:S1854"9Remove this useless assignment to local variable "empty".(œ§š8ÉõíØ/
+C
+java:S1481"(Remove this unused "one" local variable.(â†÷•8€ÖğØ/

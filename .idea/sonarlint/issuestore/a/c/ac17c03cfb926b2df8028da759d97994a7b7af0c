@@ -1,0 +1,17 @@
+
+Y
+java:S1854"9Remove this useless assignment to local variable "empty".(‚¦·‰ùÿÿÿÿ8ñòÚ×/
+J
+java:S1481"*Remove this unused "empty" local variable.(‚¦·‰ùÿÿÿÿ8ñòÚ×/
+X
+java:S1854"8Remove this useless assignment to local variable "satu".(îşúáıÿÿÿÿ8ñòÚ×/
+I
+java:S1481")Remove this unused "satu" local variable.(îşúáıÿÿÿÿ8ñòÚ×/
+\
+java:S1854"<Remove this useless assignment to local variable "elements".(åÙ·Ûûÿÿÿÿ8ò•ä×/
+]
+java:S1854"=Remove this useless assignment to local variable "immutable".(´¢œ€ıÿÿÿÿ8ò•ä×/
+N
+java:S1481".Remove this unused "immutable" local variable.(´¢œ€ıÿÿÿÿ8ò•ä×/
+M
+java:S1481"-Remove this unused "elements" local variable.(åÙ·Ûûÿÿÿÿ8ò•ä×/
